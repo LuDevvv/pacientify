@@ -1,0 +1,17 @@
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Infrastructure.Persistence.deps.json
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Infrastructure.Persistence.dll
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Infrastructure.Persistence.pdb
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Core.Application.dll
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Core.Domain.dll
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Core.Application.pdb
+C:\Users\ZHX\Desktop\Pacientify\Database\bin\Debug\net6.0\Pacientify.Core.Domain.pdb
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.dll
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\refint\Pacientify.Infrastructure.Persistence.dll
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\Pacientify.Infrastructure.Persistence.pdb
+C:\Users\ZHX\Desktop\Pacientify\Database\obj\Debug\net6.0\ref\Pacientify.Infrastructure.Persistence.dll

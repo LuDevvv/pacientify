@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ZHX\\Desktop\\Pacientify\\PacientifyWeb\\PacientifyWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj",
+        "projectName": "Pacientify.Core.Application",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\Pacientify.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\Pacientify.Infrastructure.Persistence.csproj",
+        "projectName": "Pacientify.Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\Pacientify.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj",
+        "projectName": "Pacientify.Core.Domain",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZHX\\Desktop\\Pacientify\\PacientifyWeb\\PacientifyWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Pacientify\\PacientifyWeb\\PacientifyWeb.csproj",
+        "projectName": "PacientifyWeb",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\PacientifyWeb\\PacientifyWeb.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\PacientifyWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Application\\Pacientify.Core.Application.csproj"
+              },
+              "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\Pacientify.Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Database\\Pacientify.Infrastructure.Persistence.csproj"
+              },
+              "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Pacientify\\Pacientify.Core.Domain\\Pacientify.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

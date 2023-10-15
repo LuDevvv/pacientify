@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pacientify.Core.Domain/1.0.0": {
+        "runtime": {
+          "Pacientify.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacientify.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

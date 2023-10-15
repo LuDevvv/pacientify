@@ -1,0 +1,15 @@
+C:\Users\ZHX\Desktop\Pacientify\Application\bin\Debug\net6.0\Pacientify.Core.Application.deps.json
+C:\Users\ZHX\Desktop\Pacientify\Application\bin\Debug\net6.0\Pacientify.Core.Application.dll
+C:\Users\ZHX\Desktop\Pacientify\Application\bin\Debug\net6.0\Pacientify.Core.Application.pdb
+C:\Users\ZHX\Desktop\Pacientify\Application\bin\Debug\net6.0\Pacientify.Core.Domain.dll
+C:\Users\ZHX\Desktop\Pacientify\Application\bin\Debug\net6.0\Pacientify.Core.Domain.pdb
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.csproj.CopyComplete
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.dll
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\refint\Pacientify.Core.Application.dll
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\Pacientify.Core.Application.pdb
+C:\Users\ZHX\Desktop\Pacientify\Application\obj\Debug\net6.0\ref\Pacientify.Core.Application.dll
